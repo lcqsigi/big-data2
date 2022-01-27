@@ -28,7 +28,7 @@ from tensorflow.keras.layers import BatchNormalization
 # In[2]:
 
 
-df=pd.read_csv('tpu.csv')
+df=pd.read_csv('file.csv')
 #(X_train, y_train), (X_valid, y_valid) = boston_housing.load_data()
 
 
